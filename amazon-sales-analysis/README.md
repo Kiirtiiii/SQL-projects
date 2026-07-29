@@ -27,3 +27,7 @@ This repository contains my SQL practice and project work using MySQL. I created
 - MySQL Workbench
 
 More SQL projects will be added as I continue learning.
+
+## Additional Documentation
+
+- 📄 **KEY_INSIGHTS.md** – Summary of the key findings from the analysis.
