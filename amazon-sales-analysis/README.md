@@ -1,33 +1,53 @@
-# SQL Projects
+# Amazon Sales Analysis using SQL
 
-This repository contains my SQL practice and project work using MySQL. I created these projects to improve my SQL skills and understand how SQL is used to analyze real-world datasets.
+## Overview
 
-## Projects
+I worked on this project to practice SQL by analyzing an Amazon sales dataset. Instead of writing random practice queries, I wanted to answer business-related questions using SQL and understand how data can be used to make decisions.
 
-### Amazon Sales Analysis
-- Analyzed an Amazon sales dataset using SQL.
-- Explored sales, products, categories, payment methods, and order status.
-- Answered business-related questions using SQL queries.
+## Business Questions
 
-## SQL Concepts Used
+- Which product categories sold the most units?
+- Which products were the best-selling?
+- Which payment methods were most commonly used?
+- What was the average quantity sold per category?
+- How did order status affect overall sales?
 
-- SELECT
-- WHERE
-- GROUP BY
-- ORDER BY
-- HAVING
-- LIMIT
-- DISTINCT
-- Aggregate Functions (SUM, AVG, COUNT)
-- Database and Table Creation
+## Skills Used
+
+- Database Creation
+- Data Filtering
+- Grouping & Aggregation
+- Sorting
+- Business Analysis using SQL
 
 ## Tools
 
 - MySQL
 - MySQL Workbench
 
-More SQL projects will be added as I continue learning.
+## Files
+
+- `amazon_sales.sql` – Database creation and SQL queries
+- `KEY_INSIGHTS.md` – Summary of business insights
+- `README.md` – Project documentation
+
+## What I Learned
+
+While working on this project, I improved my understanding of:
+
+- Writing SQL queries to answer business questions
+- Aggregate functions
+- GROUP BY and HAVING
+- Database design and querying
+- Interpreting query results instead of just writing queries
+
+## Future Improvements
+
+- Create dashboards in Power BI using the same dataset
+- Perform deeper sales trend analysis
+- Work with larger datasets and multiple related tables
+
 
 ## Additional Documentation
 
-- 📄 **KEY_INSIGHTS.md** – Summary of the key findings from the analysis.
+- 📄 **KEY_INSIGHTS.md** - Summary of the key findings from the analysis. 
