@@ -5,7 +5,7 @@ A collection of SQL practice, business analysis, and database projects built usi
 ## Projects
 
 - Amazon Sales Analysis *(In Progress)*
-- More projects coming soon.
+- I am working on more projects.
 
 ## SQL Concepts Covered
 
